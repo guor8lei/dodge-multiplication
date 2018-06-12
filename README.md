@@ -11,3 +11,6 @@ This was a simple game I coded in Java as a side project in high school. The obj
 5. (Eclipse only) For the Directory field, click `Browse` and select the `dodge-multiplication` folder that you just cloned
 6. (Eclipse only) Check the checkbox and click `Finish`
 7. (Eclipse only) Click `Next >> Finish`
+
+## Screenshot
+![screenshot here](http://raymondguo.me/images/screenshots/dodge-screenshot.png)
